@@ -107,9 +107,9 @@ include ('../../front_end/bootstrap/refrence.html');
 </body>
 </html>
 
-<!-- To prevent resubmission of form 
+<!-- To prevent resubmission of form --> 
 <script>
     if ( window.history.replaceState ) {
         window.history.replaceState( null, null, window.location.href );
     }
-</script>  -->
+</script>  
